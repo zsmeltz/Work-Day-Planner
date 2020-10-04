@@ -1,1 +1,4 @@
 # zs-jQ-hw
+
+I hope you guys like this one because I'd use this web-app myself. 
+In the zs-jQ-hw repo there is a site that can become your next workday planner! Using Moment.js, it displays the current date at the top of the page and know exactly what the current time is. Using the site, you may see its colors: Grey represents the past hour/hours, red represents the current hour only, and green represents the hours to come. Now what would you say to saving any important messages or notes throughout the day and it displaying it even if you refresh your page? Well, in this Work-Day Planner, you can enter any message, note, event, etc. in its text area and save it to the local storage set up on your personal computer and it will save your text from any hour even if you refresh the page or accidently click out of it. I hope eveyone enjoys this app and hope it makes you a better you. 
